@@ -1,6 +1,6 @@
 # NOM NOM Navigator Restaurant Locator Application
 
-![GitHub](https://img.shields.io/github/license/your-username/your-repo)
+![GitHub](https://img.shields.io/github/license/andrewtullos/NomNavigator)
 ![Node.js Version](https://img.shields.io/badge/node-%3E%3D%2012.0.0-brightgreen)
 ![npm Version](https://img.shields.io/badge/npm-%3E%3D%206.0.0-blue)
 
